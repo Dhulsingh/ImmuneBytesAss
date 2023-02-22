@@ -1,0 +1,13 @@
+/* Write your code here. */
+.bgcolor {
+  background-color: #0f172a;
+  text-align: center;
+  padding: 60px;
+  padding-top: 70px;
+}
+.head {
+  color: white;
+}
+.image {
+  width: 150px;
+}
